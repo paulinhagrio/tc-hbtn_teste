@@ -1,4 +1,4 @@
-
+package email.src;
 
 
 import org.junit.Test;
